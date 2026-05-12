@@ -1,0 +1,11 @@
+D:\ديسك دير\محمد ابو هدهود\14 - C# - Level 1\مجلد جديد\Pizza 🍕 Project\bin\Debug\Pizza 🍕 Project.exe.config
+D:\ديسك دير\محمد ابو هدهود\14 - C# - Level 1\مجلد جديد\Pizza 🍕 Project\bin\Debug\Pizza 🍕 Project.exe
+D:\ديسك دير\محمد ابو هدهود\14 - C# - Level 1\مجلد جديد\Pizza 🍕 Project\bin\Debug\Pizza 🍕 Project.pdb
+D:\ديسك دير\محمد ابو هدهود\14 - C# - Level 1\مجلد جديد\Pizza 🍕 Project\obj\Debug\Pizza 🍕 Project.csproj.AssemblyReference.cache
+D:\ديسك دير\محمد ابو هدهود\14 - C# - Level 1\مجلد جديد\Pizza 🍕 Project\obj\Debug\Pizza____Project.Properties.Resources.resources
+D:\ديسك دير\محمد ابو هدهود\14 - C# - Level 1\مجلد جديد\Pizza 🍕 Project\obj\Debug\Pizza 🍕 Project.csproj.GenerateResource.cache
+D:\ديسك دير\محمد ابو هدهود\14 - C# - Level 1\مجلد جديد\Pizza 🍕 Project\obj\Debug\Pizza 🍕 Project.csproj.CoreCompileInputs.cache
+D:\ديسك دير\محمد ابو هدهود\14 - C# - Level 1\مجلد جديد\Pizza 🍕 Project\obj\Debug\Pizza 🍕 Project.exe
+D:\ديسك دير\محمد ابو هدهود\14 - C# - Level 1\مجلد جديد\Pizza 🍕 Project\obj\Debug\Pizza 🍕 Project.pdb
+D:\ديسك دير\محمد ابو هدهود\14 - C# - Level 1\مجلد جديد\Pizza 🍕 Project\obj\Debug\Pizza____Project.Form1.resources
+D:\ديسك دير\محمد ابو هدهود\14 - C# - Level 1\مجلد جديد\Pizza 🍕 Project\obj\Debug\Pizza 🍕 Project.exe.config
