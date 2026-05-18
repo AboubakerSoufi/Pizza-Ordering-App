@@ -53,12 +53,18 @@ The application updates the order summary and total price dynamically whenever t
 After confirming the order:
 - A success message is displayed
 - Order controls become disabled
+## 📸 Screenshot
 
+![Pizza-Ordering-App](images/screenshot.png)
 ## Project Structure
 
 - `Form1.cs` → Main application logic
 - Windows Forms Designer → User interface components
 - Event-driven programming using WinForms events
+- 
+  ## 👨‍💻 Author
+
+Developed by: **Soufi Aboubaker Seddik**
 
 
 
