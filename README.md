@@ -55,7 +55,7 @@ After confirming the order:
 - Order controls become disabled
 ## 📸 Screenshot
 
-![[Pizza-Ordering-App](https://github.com/AboubakerSoufi/Pizza-Ordering-App/tree/main/Pizza%20%F0%9F%8D%95%20Project/image)](images/screenshot.png)
+![Pizza App](Pizza 🍕 Project/image/screenshot.png)
 ## Project Structure
 
 - `Form1.cs` → Main application logic
